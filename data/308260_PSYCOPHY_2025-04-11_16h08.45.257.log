@@ -1,0 +1,97 @@
+14.7707 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+22.1222 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+22.1237 	INFO 	Loaded monitor calibration from ['2025_03_11 14:37']
+22.3757 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x165e79cf0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x165e79c90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x165e64f10>, multiSample=False, name='window1', numSamples=2, pos=[440.0, 225.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.3758 	EXP 	window1: backgroundImage = ''
+22.3758 	EXP 	window1: backgroundFit = 'none'
+22.3841 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3848 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3854 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3872 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3882 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3891 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3894 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3897 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3904 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3917 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3923 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3936 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3942 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3946 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3959 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3963 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.3965 	DEBUG 	Uploading Texture Font fontname to graphics card
+22.4004 	DEBUG 	Upload of Texture Font fontname complete
+22.4069 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4079 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4088 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4090 	DEBUG 	Uploading Texture Font fontname to graphics card
+22.4111 	DEBUG 	Upload of Texture Font fontname complete
+22.4127 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+22.4127 	EXP 	window1: recordFrameIntervals = False
+22.6485 	EXP 	window1: recordFrameIntervals = True
+23.4991 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+23.5120 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5130 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5146 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5168 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5187 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5206 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5215 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5231 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5248 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5263 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+23.5268 	DEBUG 	Uploading Texture Font fontname to graphics card
+23.5307 	DEBUG 	Upload of Texture Font fontname complete
+23.5535 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+27.0338 	INFO 	keyboard.Keyboard is using iohub backend.
+27.0339 	EXP 	PSYCOPHY: status = STARTED
+27.0889 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='img/background.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='height', win=Window(...))
+27.1292 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+27.1352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1361 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1382 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1384 	DEBUG 	Uploading Texture Font fontname to graphics card
+27.1414 	DEBUG 	Upload of Texture Font fontname complete
+27.1468 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1485 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1501 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1511 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.1513 	DEBUG 	Uploading Texture Font fontname to graphics card
+27.1533 	DEBUG 	Upload of Texture Font fontname complete
+27.1887 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='img/background.jpg', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='height', win=Window(...))
+27.1954 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([-0.2,  0. ]), size=array([0.4, 0.4]), texRes=128.0, units='height', win=Window(...))
+27.1986 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0.2, 0. ]), size=array([0.4, 0.4]), texRes=128.0, units='height', win=Window(...))
+0.0239 	EXP 	image: autoDraw = True
+0.0239 	EXP 	text: autoDraw = True
+2.7253 	DATA 	Mouse: Left button down, pos=(432,53)
+2.7334 	DEBUG 	Read excel file with openpyxl: conditions/trial1.xlsx
+2.7337 	EXP 	Imported conditions/trial1.xlsx as conditions, 4 conditions, 4 params
+2.7341 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'left_color': 'img/white_butterfly.png', 'right_color': 'img/purple_butterfly.png', 'correct_response': 'left_img_trial', 'top_txt': ' ', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.7342 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.8118 	WARNING 	t of last frame was 88.77ms (=1/11)
+2.8118 	EXP 	image: autoDraw = False
+2.8118 	EXP 	text: autoDraw = False
+2.8118 	EXP 	image_3: image = 'img/white_butterfly.png'
+2.8118 	EXP 	image_4: image = 'img/purple_butterfly.png'
+2.8118 	EXP 	image_2: autoDraw = True
+2.8118 	EXP 	image_3: autoDraw = True
+2.8118 	EXP 	image_4: autoDraw = True
+2.8738 	DATA 	Mouse:  Left button up, pos=(432,53)
+9.1591 	DATA 	Mouse: Left button down, pos=(502,321)
+9.6444 	DEBUG 	Saving data for PSYCOPHY ExperimentHandler
+9.6449 	INFO 	saved data to /Users/ahsenbeyzaozkul/Desktop/psycophyproje/data/308260_PSYCOPHY_2025-04-11_16h08.45.257.psydat
+9.6454 	INFO 	saved data to '/Users/ahsenbeyzaozkul/Desktop/psycophyproje/data/308260_PSYCOPHY_2025-04-11_16h08.45.257.csv'

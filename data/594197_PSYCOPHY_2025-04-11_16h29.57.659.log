@@ -1,0 +1,80 @@
+15.1487 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+17.1171 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+17.1181 	INFO 	Loaded monitor calibration from ['2025_03_11 14:37']
+17.3896 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x167c72110>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x167c720b0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x167c63af0>, multiSample=False, name='window1', numSamples=2, pos=[440.0, 225.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+17.3896 	EXP 	window1: backgroundImage = ''
+17.3896 	EXP 	window1: backgroundFit = 'none'
+17.4002 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4019 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4029 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4038 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4043 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4050 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4060 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4064 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4079 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4086 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4093 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4101 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4107 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4114 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4121 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4129 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4139 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4143 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4147 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.4192 	DEBUG 	Upload of Texture Font fontname complete
+17.4259 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4270 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4279 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+17.4282 	DEBUG 	Uploading Texture Font fontname to graphics card
+17.4308 	DEBUG 	Upload of Texture Font fontname complete
+17.4327 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+17.4327 	EXP 	window1: recordFrameIntervals = False
+17.6976 	EXP 	window1: recordFrameIntervals = True
+18.5475 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+18.5548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5554 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5583 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5593 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5598 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5617 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5627 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+18.5631 	DEBUG 	Uploading Texture Font fontname to graphics card
+18.5656 	DEBUG 	Upload of Texture Font fontname complete
+18.5825 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+22.3664 	INFO 	keyboard.Keyboard is using iohub backend.
+22.3664 	EXP 	PSYCOPHY: status = STARTED
+22.4281 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='img/background.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='height', win=Window(...))
+22.4756 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.4816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4837 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4849 	DEBUG 	Uploading Texture Font fontname to graphics card
+22.4879 	DEBUG 	Upload of Texture Font fontname complete
+22.4933 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4943 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4956 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4966 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4973 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4976 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+22.4978 	DEBUG 	Uploading Texture Font fontname to graphics card
+22.4998 	DEBUG 	Upload of Texture Font fontname complete
+22.5296 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='img/background.jpg', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='height', win=Window(...))
+22.5353 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([-0.2,  0. ]), size=array([0.4, 0.4]), texRes=128.0, units='height', win=Window(...))
+22.5383 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0.2, 0. ]), size=array([0.4, 0.4]), texRes=128.0, units='height', win=Window(...))
+22.6681 	DEBUG 	Saving data for PSYCOPHY ExperimentHandler
+22.6684 	INFO 	saved data to /Users/ahsenbeyzaozkul/Desktop/psycophyproje/data/594197_PSYCOPHY_2025-04-11_16h29.57.659.psydat
+22.6686 	INFO 	saved data to '/Users/ahsenbeyzaozkul/Desktop/psycophyproje/data/594197_PSYCOPHY_2025-04-11_16h29.57.659.csv'
